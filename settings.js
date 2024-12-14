@@ -51,9 +51,9 @@ global.location = process.env.LOCATION || "Pakistan, Lahore, Sabzazar";
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
 global.SESSION_ID = process.env.SESSION_ID || '';
 
-global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
+global.botname = process.env.BOT_NAME || '☬  𝐌𝐢𝐤𝐚𝐞𝐥𝐬𝐨𝐧 𝐅𝐚𝐦𝐢𝐥𝐲  ☬';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '254779167048'];
 
 global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
 
@@ -67,21 +67,21 @@ global.wagc = process.env.WHATSAPP_CHANNEL || "https://whatsapp.com/channel/0029
 //~~~~~~~~<Theme and Miscellaneous>~~~~~~~~~~\\
 global.themeemoji = process.env.THEME_EMOJI || '⛩';
 
-global.wm = process.env.WATERMARK || "Xlicon Bot Inc.";
+global.wm = process.env.WATERMARK || "☬  𝐌𝐢𝐤𝐚𝐞𝐥𝐬𝐨𝐧 𝐅𝐚𝐦𝐢𝐥𝐲  ☬";
 
 global.botscript = process.env.SCRIPT_LINK || 'https://github.com/salmanytofficial/XLICON-V4-MD';
 
-global.packname = process.env.PACK_NAME || "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉";
+global.packname = process.env.PACK_NAME || "☬  𝐌𝐢𝐤𝐚𝐞𝐥𝐬𝐨𝐧 𝐅𝐚𝐦𝐢𝐥𝐲  ☬";
 
-global.author = process.env.AUTHOR_NAME || "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿";
+global.author = process.env.AUTHOR_NAME || "☬  𝐌𝐢𝐤𝐚𝐞𝐥𝐬𝐨𝐧 𝐅𝐚𝐦𝐢𝐥𝐲  ☬";
 
-global.creator = process.env.CREATOR_NUMBER || "923184070915@s.whatsapp.net";
+global.creator = process.env.CREATOR_NUMBER || "254779167048@s.whatsapp.net";
 
 
 //~~~~~~~~~~~~~<Bot Settings>~~~~~~~~~~~~~~~\\
-global.xprefix = process.env.PREFIX || '.';
+global.xprefix = process.env.PREFIX || '_';
 
-global.premium = [process.env.PREMIUM_NUMBER || '923184070915'];
+global.premium = [process.env.PREMIUM_NUMBER || '254779167048'];
 
 global.typemenu = process.env.MENU_TYPE || 'v2';
 
